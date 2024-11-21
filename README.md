@@ -169,4 +169,10 @@ Greentech Future/
 │   ├── 5_predictive_maintenance.ipynb
 ├── README.md
 ├── LICENSE
-```
+```[GreenTech-Future-Leveraging-Python-and-Machine-Learning-for-Sustainable-Solutions.pdf](https://github.com/user-attachments/files/17849922/GreenTech-Future-Leveraging-Python-and-Machine-Learning-for-Sustainable-Solutions.pdf)
+
+
+
+
+
+
